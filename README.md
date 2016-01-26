@@ -1,4 +1,4 @@
-# Beijing PM 2.5 Historical Data Visualization
+# Beijing PM 2.5 Historical Data Visualization Shiny Application Pitch
 
 This is the pitch presentation for shiny application bjpm25 using Slidify. bjpm25 is the course project 
 for Develope Data Products on Coursera, which aims to visualize the hitorical pm 2.5 data in Beijing.
