@@ -37,15 +37,18 @@ source: [bbc](http://www.bbc.com/news/world-asia-china-16665360)
 
 ## Explore More With the Shiny Application
 
-Shiny App: [Beijing PM 2.5 in History](https://leaf.shinyapps.io/bjpm25/)
+Shiny App Link: https://leaf.shinyapps.io/bjpm25/  
+
+Github Repo: https://github.com/lifengleaf/bjpm25
 
 
 > 1. Annual change from 2008 to 2015
 > 2. Monthly change every year
-> 3. Whether or not exceed the offical standard?
+> 3. Whether or not exceed the offical standard?  
 
 
-*Data Source:* [U.S. Department of State Air Quality Monitoring Program](http://www.stateair.net/web/post/1/1.html)
+
+Data Source: [U.S. Department of State Air Quality Monitoring Program](http://www.stateair.net/web/post/1/1.html)
 
 
 
